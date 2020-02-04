@@ -4,3 +4,4 @@ repo = "git@github.com:schlichtanders/SchlichtandersJuliaRegistry.jl.git"
 description = "My public development registry"
 
 [packages]
+79afa230-ca09-11e8-120b-5decf7bf5e25 = { name = "Continuables", path = "C/Continuables" }
