@@ -6,6 +6,7 @@ description = "My public development registry"
 [packages]
 2704c575-34db-4e2b-9135-fc0075949e5a = { name = "IsDef", path = "I/IsDef" }
 3311a090-b55d-11e9-176d-dbdfc6a88253 = { name = "ASTParser", path = "A/ASTParser" }
+5060dc80-e054-11e8-0acc-1dc6592f659e = { name = "Traits", path = "T/Traits" }
 6ec83bb0-ed9f-11e9-3b4c-2b04cb4e219c = { name = "StructEquality", path = "S/StructEquality" }
 79afa230-ca09-11e8-120b-5decf7bf5e25 = { name = "Continuables", path = "C/Continuables" }
 83eed652-29e8-11e9-12da-a7c29d64ffc9 = { name = "DataTypesBasic", path = "D/DataTypesBasic" }
