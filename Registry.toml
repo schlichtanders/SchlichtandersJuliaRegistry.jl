@@ -5,3 +5,4 @@ description = "My public development registry"
 
 [packages]
 2704c575-34db-4e2b-9135-fc0075949e5a = { name = "IsDef", path = "I/IsDef" }
+c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8 = { name = "WhereTraits", path = "W/WhereTraits" }
