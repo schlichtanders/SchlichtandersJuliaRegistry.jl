@@ -2,3 +2,5 @@ name = "SchlichtandersJuliaRegistry"
 uuid = "7c7f2fb5-a71b-4c8a-8e5e-a2f18e9b020d"
 repo = "https://github.com/schlichtanders/SchlichtandersJuliaRegistry.jl"
 description = "My public development registry"
+
+[packages]
