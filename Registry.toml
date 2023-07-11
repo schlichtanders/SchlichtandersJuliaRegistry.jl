@@ -2,6 +2,3 @@ name = "SchlichtandersJuliaRegistry"
 uuid = "7c7f2fb5-a71b-4c8a-8e5e-a2f18e9b020d"
 repo = "https://github.com/schlichtanders/SchlichtandersJuliaRegistry.jl"
 description = "My public development registry"
-
-[packages]
-2704c575-34db-4e2b-9135-fc0075949e5a = { name = "IsDef", path = "I/IsDef" }
